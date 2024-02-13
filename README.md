@@ -1,5 +1,7 @@
 # IPL-Analysis-2008-2016
 
+TABLEAU PUBLIC LINK FOR THE DASHBOARD: https://public.tableau.com/app/profile/karthik.km7169/viz/IPL_KM/IPL_DB?publish=yes
+
 DASHBOARD FOR OVERALL ANALYSIS
 ![dash](https://github.com/KARTHIKKM7/IPL-Analysis-2008-2016/assets/67194874/2c249194-ce22-4a30-bc35-f20df4d4dbc0)
 
